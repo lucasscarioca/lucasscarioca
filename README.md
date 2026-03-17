@@ -1,7 +1,10 @@
 ### Lucas Carioca
 
-- Software Engineer
-- Fortaleza, Brazil
-- [![Website](https://img.shields.io/badge/Website-3b3b3b?style=flat&logo=googlechrome&logoColor=white)](https://homepage.oaklabs.workers.dev/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-3b3b3b?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-carioca/)
-- [![Email](https://img.shields.io/badge/Email-3b3b3b?style=flat&logo=gmail&logoColor=white)](mailto:lucascarioca97@gmail.com)
+AI engineer building useful agents, chat products, and workflow systems.
+
+I help teams turn AI product ideas into working software, from prototype to production.
+
+Focused on LLM agents, messaging infrastructure, retrieval, integrations, and developer tooling.
+
+Fortaleza, Brazil  
+[Website](https://homepage.oaklabs.workers.dev/) · [LinkedIn](https://www.linkedin.com/in/lucas-carioca/) · [Email](mailto:lucascarioca97@gmail.com)
