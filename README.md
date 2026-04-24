@@ -4,7 +4,7 @@
 
 📍 Fortaleza, Brazil
 
-[Website](https://homepage.oaklabs.workers.dev/) · [LinkedIn](https://www.linkedin.com/in/lucas-carioca/) · [Email](mailto:lucascarioca97@gmail.com)
+[Website](https://lucascarioca.dev/) · [LinkedIn](https://www.linkedin.com/in/lucas-carioca/) · [Email](mailto:lucascarioca97@gmail.com)
 
 
 ## **Building...**
